@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.env
+.vscode/
+.DS_Store
+db.json
+.env
+leaves.db
+venv/
+__pycache__/
+.DS_Store
